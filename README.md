@@ -9,6 +9,6 @@ This is a great app that showcases many of the SAFE APIs:
  - Mutable Data creation
  - will be updated for Authenticator, etc
  
-Extended explanation and screenshots at: <a href="bit.do/UploaderWebApp" target="_blank">bit.do/UploaderWebApp</a>
+Extended explanation and screenshots at: <a href="http://bit.do/UploaderWebApp" target="_blank">bit.do/UploaderWebApp</a>
 
 Great job, Joseph!
