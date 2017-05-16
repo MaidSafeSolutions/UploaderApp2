@@ -11,6 +11,6 @@ This is a great app that showcases many of the SAFE APIs:
  - works with Chrome, Firefox, SAFE Browser & Android
  
 Extended explanation and screenshots at: <a href="http://bit.do/UploaderAppDemo" target="_blank">bit.do/UploaderAppDemo</a>
-<br>Live clearnet mockup available to play with at: <a href="bit.do/UploaderDemo" target="_blank">bit.do/UploaderDemo</a>
+<br>Live clearnet mockup available to play with at: <a href="http://bit.do/UploaderDemo" target="_blank">bit.do/UploaderDemo</a>
 
 Great job, Joseph!
